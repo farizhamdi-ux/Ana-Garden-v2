@@ -1,0 +1,6 @@
+{
+  "name": "Ana's Garden Smart Florist",
+  "description": "Sabah's premium smart florist platform, fresh from Cameron Highlands, AI-personalized, and delivered with care.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
